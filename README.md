@@ -12,6 +12,18 @@ Any "Ante" and "Dexterity" cards are banned implicitly.
 
 Most matches are played as Best of 1 as there is no real way to prepare sideboard.
 
+## Rules used
+
+By default, games of EVE are played by latest Magic: The Gathering rules. If both players are using decks from blocks no newer than "Time Spiral – Lorwyn/Shadowmoor + 10th Edition", they are encouraged to play by 6th Edition rules.
+
+Highlight changes of that is a) there is still mana burn, b) damage goes to stack and c) when a creature is blocked by multiple blockers, it assigns it's combat damage, rather than declaring order of blockers.
+
+## Fullpaint rule
+
+To encourage playing the decks "as they were", any player that has all his cards (including basic lands) in a print that is not newer than the set / block the player chose to play, he or she gets a free "Scry 1" at the start of the game.
+
+So, for example, if you play **Tempest** &ndash; **Urza** + 5th edition and you want to get this bonus, you cannot play a Wasteland from any other edition than Tempest, nor basic lands from Mercadian Masques or 6th edition or newer, etc.
+
 ## Legal combinations
 
 | Era |  Core Set(s) | Expansions  | Banned list | Staples |
@@ -44,12 +56,6 @@ Most matches are played as Best of 1 as there is no real way to prepare sideboar
 | **Kaladesh** &ndash; **Amonkhet**<br>(Oct '17 to Oct '18) | [<img src="icons/M19.png" width="21" height="21"> Core Set 2019](https://scryfall.com/sets/m19) | [<img src="icons/KLD.png" width="21" height="21"> Kaladesh](https://scryfall.com/sets/kld)<br>[<img src="icons/AER.png" width="21" height="21"> Aether Revolt](https://scryfall.com/sets/aer)<br>[<img src="icons/AKH.png" width="21" height="21"> Amonkhet](https://scryfall.com/sets/akh)<br>[<img src="icons/HOU.png" width="21" height="21"> Hour of Devastation](https://scryfall.com/sets/hou)<br>[<img src="icons/XLN.png" width="21" height="21"> Ixalan](https://scryfall.com/sets/xln)<br>[<img src="icons/RIX.png" width="21" height="21"> Rivals of Ixalan](https://scryfall.com/sets/rix)<br>[<img src="icons/DOM.png" width="21" height="21"> Dominaria](https://scryfall.com/sets/dom) | Attune with Aether<br>Aetherworks Marvel<br>Felidar Guardian<br>Rampaging Ferocidon<br>Ramunap Ruins<br>Rogue Refiner<br>Smuggler's Copter ||
 | **Amonkhet** &ndash; **Ixalan**<br>(Nov '18 to Oct '19) | [<img src="icons/M19.png" width="21" height="21"> Core Set 2019](https://scryfall.com/sets/m19)<br>_and_<br>[<img src="icons/M20.png" width="21" height="21"> Core Set 2020](https://scryfall.com/sets/m20) | [<img src="icons/XLN.png" width="21" height="21"> Ixalan](https://scryfall.com/sets/xln)<br>[<img src="icons/RIX.png" width="21" height="21"> Rivals of Ixalan](https://scryfall.com/sets/rix)<br>[<img src="icons/DOM.png" width="21" height="21"> Dominaria](https://scryfall.com/sets/dom)<br>[<img src="icons/GRN.png" width="21" height="21"> Guilds of Ravnica](https://scryfall.com/sets/grn)<br>[<img src="icons/RNA.png" width="21" height="21"> Ravnica Allegiance](https://scryfall.com/sets/rna)<br>[<img src="icons/WAR.png" width="21" height="21"> War of the Spark](https://scryfall.com/sets/war) | Attune with Aether<br>Ramunap Ruins<br>Rogue Refiner ||
 
-
-## Fullpaint rule
-
-To encourage playing the decks "as they were", any player that has all his cards (including basic lands) in a print that is not newer than the set / block the player chose to play, he or she gets a free "Scry 1" at the start of the game.
-
-So, for example, if you play **Tempest** &ndash; **Urza** + 5th edition and you want to get this bonus, you cannot play a Wasteland from any other edition than Tempest, nor basic lands from Mercadian Masques or 6th edition or newer, etc.
 
 ## TODO
 
