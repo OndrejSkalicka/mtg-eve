@@ -76,6 +76,8 @@ Decks
 
 [https://mtg.gamepedia.com/World_Championship_Decks](https://mtg.gamepedia.com/World_Championship_Decks)
 
+(https://web.archive.org/web/20120418101103/http://www.starcitygames.com/magic/misc/7815_Magics_Greatest_Secrets_Revealed.html)
+
 Sort editions by release date
 
 https://mtg.gamepedia.com/Block
