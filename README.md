@@ -1,28 +1,7 @@
 # Magic the Gathering: II.V format (EVE)
 Basic idea of this format is to be able to play decks from Type II (now Standard) across the whole MtG timeline. 
 
-Below are listed possible combinations of blocks and banned lists. 
-
-Up to 10th edition, there were sometimes two Core Sets available for a block of expansions. There, you have to chose one, not both.
-There are some edge-case scenarios which were impossible to play at the time (5th edition + Urza's Destiny, as 6th edition came before Urza's Destiny), but those were merged together for simplicity sake.
-
-Starting from M10, it was often possible to use cards from two core sets at the time. In that case you can use any card that was printed in either.
-
-Any "Ante" and "Dexterity" cards are banned implicitly.
-
-Most matches are played as Best of 1 as there is no real way to prepare sideboard.
-
-## Rules used
-
-By default, games of EVE are played by latest Magic: The Gathering rules. If both players are using decks from blocks no newer than "Time Spiral – Lorwyn/Shadowmoor + 10th Edition", they are encouraged to play by 6th Edition rules.
-
-Highlight changes of that is a) there is still mana burn, b) damage goes to stack and c) when a creature is blocked by multiple blockers, it assigns it's combat damage, rather than declaring order of blockers.
-
-## Fullpaint rule
-
-To encourage playing the decks "as they were", any player that has all his cards (including basic lands) in a print that is not newer than the set / block the player chose to play, he or she gets a free "Scry 1" at the start of the game.
-
-So, for example, if you play **Tempest** &ndash; **Urza** + 5th edition and you want to get this bonus, you cannot play a Wasteland from any other edition than Tempest, nor basic lands from Mercadian Masques or 6th edition or newer, etc.
+Most matches are played as Best of 1 as there is no real way to prepare sideboard. Any "Ante" and "Dexterity" cards are banned implicitly. See below for details.
 
 ## Legal combinations
 
@@ -55,6 +34,26 @@ So, for example, if you play **Tempest** &ndash; **Urza** + 5th edition and you 
 | **Shadows over Innistrad** &ndash; **Kaladesh**<br>(Oct '16 to Sep '17) | &mdash; | [<img src="icons/BFZ.png" width="21" height="21"> Battle For Zendikar](https://scryfall.com/sets/bfz)<br>[<img src="icons/OGW.png" width="21" height="21"> Oath of the Gatewatch](https://scryfall.com/sets/ogw)<br>[<img src="icons/SOI.png" width="21" height="21"> Shadows Over Innistrad](https://scryfall.com/sets/soi)<br>[<img src="icons/EMN.png" width="21" height="21"> Eldritch Moon](https://scryfall.com/sets/emn)<br>[<img src="icons/KLD.png" width="21" height="21"> Kaladesh](https://scryfall.com/sets/kld)<br>[<img src="icons/AER.png" width="21" height="21"> Aether Revolt](https://scryfall.com/sets/aer)<br>[<img src="icons/AKH.png" width="21" height="21"> Amonkhet](https://scryfall.com/sets/akh)<br>[<img src="icons/HOU.png" width="21" height="21"> Hour of Devastation](https://scryfall.com/sets/hou) | Aetherworks Marvel<br>Emrakul, the Promised End<br>Felidar Guardian<br>Reflector Mage<br>Smuggler's Copter ||
 | **Kaladesh** &ndash; **Amonkhet**<br>(Oct '17 to Oct '18) | [<img src="icons/M19.png" width="21" height="21"> Core Set 2019](https://scryfall.com/sets/m19) | [<img src="icons/KLD.png" width="21" height="21"> Kaladesh](https://scryfall.com/sets/kld)<br>[<img src="icons/AER.png" width="21" height="21"> Aether Revolt](https://scryfall.com/sets/aer)<br>[<img src="icons/AKH.png" width="21" height="21"> Amonkhet](https://scryfall.com/sets/akh)<br>[<img src="icons/HOU.png" width="21" height="21"> Hour of Devastation](https://scryfall.com/sets/hou)<br>[<img src="icons/XLN.png" width="21" height="21"> Ixalan](https://scryfall.com/sets/xln)<br>[<img src="icons/RIX.png" width="21" height="21"> Rivals of Ixalan](https://scryfall.com/sets/rix)<br>[<img src="icons/DOM.png" width="21" height="21"> Dominaria](https://scryfall.com/sets/dom) | Attune with Aether<br>Aetherworks Marvel<br>Felidar Guardian<br>Rampaging Ferocidon<br>Ramunap Ruins<br>Rogue Refiner<br>Smuggler's Copter ||
 | **Amonkhet** &ndash; **Ixalan**<br>(Nov '18 to Oct '19) | [<img src="icons/M19.png" width="21" height="21"> Core Set 2019](https://scryfall.com/sets/m19)<br>_and_<br>[<img src="icons/M20.png" width="21" height="21"> Core Set 2020](https://scryfall.com/sets/m20) | [<img src="icons/XLN.png" width="21" height="21"> Ixalan](https://scryfall.com/sets/xln)<br>[<img src="icons/RIX.png" width="21" height="21"> Rivals of Ixalan](https://scryfall.com/sets/rix)<br>[<img src="icons/DOM.png" width="21" height="21"> Dominaria](https://scryfall.com/sets/dom)<br>[<img src="icons/GRN.png" width="21" height="21"> Guilds of Ravnica](https://scryfall.com/sets/grn)<br>[<img src="icons/RNA.png" width="21" height="21"> Ravnica Allegiance](https://scryfall.com/sets/rna)<br>[<img src="icons/WAR.png" width="21" height="21"> War of the Spark](https://scryfall.com/sets/war) | Attune with Aether<br>Ramunap Ruins<br>Rogue Refiner ||
+
+## Core sets
+
+Up to 10th edition, there were sometimes two Core Sets available for a block of expansions. There, you have to chose one, not both.
+There are some edge-case scenarios which were impossible to play at the time (5th edition + Urza's Destiny, as 6th edition came before Urza's Destiny), but those were merged together for simplicity sake.
+
+Starting from M10, it was often possible to use cards from two core sets at the time. In that case you can use any card that was printed in either.
+
+
+## Rules used
+
+By default, games of EVE are played by latest Magic: The Gathering rules. If both players are using decks from blocks no newer than "Time Spiral – Lorwyn/Shadowmoor + 10th Edition", they are encouraged to play by 6th Edition rules.
+
+Highlight changes of that is a) there is still mana burn, b) damage goes to stack and c) when a creature is blocked by multiple blockers, it assigns it's combat damage, rather than declaring order of blockers.
+
+## Fullpaint rule
+
+To encourage playing the decks "as they were", any player that has all his cards (including basic lands) in a print that is not newer than the set / block the player chose to play, he or she gets a free "Scry 1" at the start of the game.
+
+So, for example, if you play **Tempest** &ndash; **Urza** + 5th edition and you want to get this bonus, you cannot play a Wasteland from any other edition than Tempest, nor basic lands from Mercadian Masques or 6th edition or newer, etc.
 
 
 ## TODO
