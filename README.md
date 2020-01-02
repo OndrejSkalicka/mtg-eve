@@ -49,6 +49,8 @@ By default, games of EVE are played by latest Magic: The Gathering rules. If bot
 
 Highlight changes of that is a) there is still mana burn, b) damage goes to stack and c) when a creature is blocked by multiple blockers, it assigns it's combat damage, rather than declaring order of blockers.
 
+The most recent Legendaries and Mulligan rules are always used.
+
 ## Fullpaint rule
 
 To encourage playing the decks "as they were", any player that has all his cards (including basic lands) in a print that is not newer than the set / block the player chose to play, he or she gets a free "Scry 1" at the start of the game.
