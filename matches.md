@@ -24,12 +24,21 @@ Fires
   `4 : 2`
 [1998 Seth Burn's "Pooh Burn"](https://aetherhub.com/Deck/Public/176326)
 
+# Stats
 
-<! --
 [1999 Urza's Necropotence](https://aetherhub.com/Deck/Public/204869)
+`1 : 2`
+
 [1999 Matt Linde's Green Stompy](https://aetherhub.com/Deck/Public/175734)
+`4 : 2`
+
 [1998 Seth Burn's "Pooh Burn"](https://aetherhub.com/Deck/Public/176326)
+`5 : 7`
+
 [1997 Jon Finkel's Counter-Post](https://aetherhub.com/Deck/Public/175845)
+`1 : 0`
+
 [1997 Svend Geertsen Green Stompy](https://aetherhub.com/Deck/Public/175755)
+`1 : 2`
+
 [U/G Madness](https://aetherhub.com/Deck/Public/177783)
--->
