@@ -79,6 +79,12 @@ Decks
 
 (https://web.archive.org/web/20120418101103/http://www.starcitygames.com/magic/misc/7815_Magics_Greatest_Secrets_Revealed.html)
 
+(http://www.angelfire.com/de/pokemon425/mtg.html)
+
+(https://premodernmagic.com/blog/deck-archetypes-in-premodern/)
+
+(https://magic.wizards.com/en/worldchampdecks2000)
+
 Sort editions by release date
 
 https://mtg.gamepedia.com/Block

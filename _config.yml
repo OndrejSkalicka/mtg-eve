@@ -3,3 +3,5 @@ theme: jekyll-theme-cayman
 show_downloads: false
 title: MtG™ EVE Format
 description: Play any Type II (Standard) deck from across whole MtG™ timeline!
+
+google_analytics: UA-155353174-1
